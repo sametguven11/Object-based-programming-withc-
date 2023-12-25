@@ -1,0 +1,15 @@
+C:\Users\Samet Güven\source\repos\Proje\Proje\obj\Debug\net6.0\Proje.csproj.AssemblyReference.cache
+C:\Users\Samet Güven\source\repos\Proje\Proje\obj\Debug\net6.0\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet Güven\source\repos\Proje\Proje\obj\Debug\net6.0\Proje.AssemblyInfoInputs.cache
+C:\Users\Samet Güven\source\repos\Proje\Proje\obj\Debug\net6.0\Proje.AssemblyInfo.cs
+C:\Users\Samet Güven\source\repos\Proje\Proje\obj\Debug\net6.0\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Samet Güven\source\repos\Proje\Proje\bin\Debug\net6.0\Proje.exe
+C:\Users\Samet Güven\source\repos\Proje\Proje\bin\Debug\net6.0\Proje.deps.json
+C:\Users\Samet Güven\source\repos\Proje\Proje\bin\Debug\net6.0\Proje.runtimeconfig.json
+C:\Users\Samet Güven\source\repos\Proje\Proje\bin\Debug\net6.0\Proje.dll
+C:\Users\Samet Güven\source\repos\Proje\Proje\bin\Debug\net6.0\Proje.pdb
+C:\Users\Samet Güven\source\repos\Proje\Proje\obj\Debug\net6.0\Proje.dll
+C:\Users\Samet Güven\source\repos\Proje\Proje\obj\Debug\net6.0\refint\Proje.dll
+C:\Users\Samet Güven\source\repos\Proje\Proje\obj\Debug\net6.0\Proje.pdb
+C:\Users\Samet Güven\source\repos\Proje\Proje\obj\Debug\net6.0\Proje.genruntimeconfig.cache
+C:\Users\Samet Güven\source\repos\Proje\Proje\obj\Debug\net6.0\ref\Proje.dll
